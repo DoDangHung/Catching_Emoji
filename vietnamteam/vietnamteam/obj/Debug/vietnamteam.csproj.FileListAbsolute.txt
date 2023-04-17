@@ -1,0 +1,12 @@
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\bin\Debug\vietnamteam.exe.config
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\bin\Debug\vietnamteam.exe
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\bin\Debug\vietnamteam.pdb
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.csproj.AssemblyReference.cache
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.csproj.SuggestedBindingRedirects.cache
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.Form1.resources
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.Properties.Resources.resources
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.csproj.GenerateResource.cache
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.csproj.CoreCompileInputs.cache
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.exe
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.pdb
+C:\Users\hungm\source\repos\vietnamteam\vietnamteam\obj\Debug\vietnamteam.Form2.resources
